@@ -77,16 +77,69 @@ flowchart TD
 ```
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+### Technical Feasibility
+The proposed FarmBridge platform can be developed using commonly available web technologies such as HTML, CSS, JavaScript, Python Django, and MySQL. AI-based demand forecasting and location-based logistics can be integrated gradually as the system develops.
+
+### Operational Feasibility
+The platform is designed with a simple and user-friendly interface that can be used by farmers, Farmer Producer Organizations (FPOs), consumers, retailers, and bulk buyers. Easy product listing, price comparison, and order tracking will make the process convenient.
+
+### Economic Feasibility
+The platform can reduce the need for multiple intermediaries, helping farmers receive better returns and consumers purchase products at reasonable prices. Using open-source technologies can also reduce initial development costs.
+
+### Challenges and Risks
+- Limited internet connectivity in rural areas.
+- Digital literacy challenges among some farmers.
+- Transportation and delivery coordination.
+- Maintaining trust, product quality, and transparent pricing.
+
+### Mitigation Strategies
+- Provide a simple, mobile-friendly interface.
+- Support regional languages in future development.
+- Partner with local logistics providers.
+- Ensure transparent pricing and secure user information.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+### Impact on Target Audience
+FarmBridge will benefit farmers, FPOs, consumers, retailers, and bulk buyers by creating a direct connection between producers and customers. It helps farmers reach a wider market, reduces dependency on intermediaries, and makes agricultural products more accessible to buyers.
+
+### Social Impact
+- Empowers farmers to make independent selling decisions.
+- Improves communication between farmers and consumers.
+- Encourages digital adoption in agriculture.
+- Supports rural communities and small-scale farmers.
+
+### Economic Benefits
+- Helps farmers improve their earnings.
+- Reduces unnecessary intermediary costs.
+- Provides competitive and transparent pricing for consumers.
+- Creates opportunities for local agricultural businesses.
+
+### Environmental Benefits
+- Helps reduce food wastage through demand forecasting.
+- Supports efficient transportation and route planning.
+- Encourages a more sustainable agricultural supply chain.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+### 1. National Agriculture Market (e-NAM)
+Website: https://enam.gov.in/
+
+Research: e-NAM is an online agricultural trading platform that connects markets across India. It promotes transparent trading, better price discovery, and wider market access for farmers.
+
+Relevance to FarmBridge: It serves as a reference for digital agricultural marketplaces and farmer-to-buyer connectivity.
+
+### 2. Ministry of Agriculture and Farmers Welfare – Government of India
+Website: https://www.pib.gov.in/
+
+Research: Government reports on e-NAM highlight digital agricultural marketing, transparent pricing, farmer participation, and improved market access.
+
+Relevance to FarmBridge: Supports the need for digital solutions that help farmers connect with buyers and make informed selling decisions.
+
+### 3. Economic Survey of India
+Website: https://www.indiabudget.gov.in/economicsurvey/
+
+Research: The Economic Survey discusses agricultural marketing, digital agriculture initiatives, Farmer Producer Organizations (FPOs), and technology-driven development.
+
+Relevance to FarmBridge: Provides background for improving agricultural supply chains through digital technology and better market connectivity.
